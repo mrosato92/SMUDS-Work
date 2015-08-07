@@ -1,0 +1,7 @@
+//FOR BUTTON TYPE SELECTION
+
+enum ButtonType{
+  RECT,
+  ROUNDED_RECT
+};
+

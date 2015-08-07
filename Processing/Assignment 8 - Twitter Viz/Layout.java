@@ -1,0 +1,6 @@
+//FOR MENU LAYOUT SELECTION
+
+enum Layout {
+  LEFT, RIGHT, TOP, BOTTOM
+};
+
